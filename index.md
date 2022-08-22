@@ -1,213 +1,138 @@
-You can also provide feedback and comments to the Science Coordination Office at [sco@thwaitesglacier.org](sco@thwaitesglacier.org).
+# Group values and code of conduct
+Jonny Kingslake, with input from Elizabeth Case, Ching-Yao Lai, Julian Spergel, Benjamin Keisling, Aaron Stubblefield. 
 
-The Science Coordination Office will consult with the ITGC Inclusion, Diversity, Equity and Accessibility (IDEA) Committee about any proposed changes to this statement.
 
-## Team Objectives:
-- Produce high quality peer-reviewed science
-- Synthesize that science towards the questions “how much and how fast”
-- Mentor students, post docs, and other early career scientists toward career success
-- Communicate the issues and the results to the public
-- Engage the public in the process of science
-- Foster improved collaboration between UK, US and international research communities
-- Help build a sustainably inclusive and diverse community of scientists.
+## Contents
+- This document
+- The group and its place within Lamont
+- What contributes to this?
+- How do we achieve these?
+- Responsibilities of faculty members
+- Responsibilities of other group members.
+- Vacation and working hours
+- Fieldwork expectations
+- Onboarding of new group members.
+- Revolving conflict and raising concerns
 
-## Community Norms of Behavior
-### Across the whole collaboration; on a daily basis, in the field, and at workshops:
-1. **Respect** each other
+## This document
+This document is a statement of the values of the research group, to be edited by present group members and eventually approved by present and future members. The intention is for these values to make clear to everyone our purpose and to guide how we conduct ourselves. This document uses the Lamont code of conduct (link) as a starting point and lays out more specifically what we want for our group. This document will change as more people join the group and their input is incorporated.
 
-    a. Acknowledge contributions from others.
+## The group and its place within Lamont
+We are a group of postdoctoral researchers, undergraduate students, faculty members, graduate students and research scientists. What groups us together is an interest in the physics of ice sheets and glaciology more broadly. 
+Note that this group is just one unit among many different collections of people across Lamont (divisions, research groups, mentor committees, laboratories, institutes). As such, many members of these groups belong to multiple other groups and all of us work across groups and divisions at Lamont and should be encouraged to do so. This is good for collaboration and interdisciplinarity. 
+This group is open to anyone at Lamont, or elsewhere, interested in glaciology. Its primary purpose is to help its members and others to create and sustain fulfilling, engaging professional lives. 
 
-    b. Respect everyone’s time (be prompt for deadlines, to meetings, at responding to collaborators,
-    etc.).
+## What contributes to this?
+Key aspects of having sustainable, fulfilling and engaging professional lives include:
+1.    Doing science that interests you
+2.    Doing work you see as beneficial to science and society
+3.    Job/salary security and opportunities for change that reflect evolving priorities, commitments and interests
+4.    Feeling valued and respected within the group, across Lamont and the international science community
+5.    Maintaining a work/life balance that is right for you
 
-    c. Harassment and bullying are prohibited by US Federal law and UK law. The National Science
-    Foundation’s (NSF) Office of Polar Programs (OPP), National Environment Research Council
-    (NERC), NSF US Antarctic Program (USAP), and our home institutions have policies and
-    consequences for harassment. NSF OPP Policies and Codes of Conduct; NERC Policies.
+## How do we achieve these?
+There are many ways in which we aim to achieve these things. Four important ones are:
 
-2. **Provide space** in discussions and encourage feedback from everyone, especially those who are less vocal.
-Ensure that all team members participate in discussions.
+1. Conducting research and publishing peer-reviewed papers. Academic papers are the groups primary scientific output. Conducting the science reported in papers and producing papers (planning, writing, figure preparation, rewriting, responding to reviews, etc.) accounts for the majority of our time and effort. 
 
-3. **Listen to input** from all collaboration members, even when you don’t agree. Where disagreements arise,
-deal with this in a constructive, non-personal, and respectful manner.
+2. In all actions, promote a respectful, welcoming and inclusive group culture. Everyone is encouraged to (i) be aware of our implicit and explicit biases in all interactions, (ii) support others, particularly those at earlier career stage than you, (iii) allow others the space to have input (applies to in-person meetings, virtual meetings, emails, slack threads, comments on documents, etc.), particularly if your natural enthusiasm or confidence often leads you to talk a lot, (iv) respect others’ input and show others that you respect them and their input, (v) communicate with compassion and openness, voice opinions and concerns openly, and lift up other members of the group at all opportunities, (v) take part in larger scale (e.g. campus-, university-wide) activities to improve diversity, equity and inclusion (DEI) in geosciences and beyond, and (vi) be generous in terms of your ideas and time. 
 
-4. Create an **inclusive environment** that is welcoming of all ethnicities, national origins, genders, sexuality,
-physical abilities, lifestyles, levels of education, etc.
+3. Teaching and outreach. A significant part of our work is teaching and outreach. Whether conventional undergraduate/postgraduate teaching, speaking about your career in high schools, or writing blog posts, these are important opportunities to communicate your science and experiences beyond glaciology and Lamont. This is a responsibility that we should all take seriously and exploit our positions as geoscientists at a world-leading institution to educate and inspire the public about glaciological science, and also about the need for science. 
 
-5. **Acknowledge the value of diversity** in science, such as described in the article How Diversity Makes Us
-Smarter.
+4. Engaging with the broader science community. This is a vital part of an academic career. It leads to job opportunities, fosters collaborations, and disseminates our research. This includes serving as editors, reviewers or panel members for journals or funding agencies, attending and presenting at scientific conferences, helping run scientific organizations, delivering research seminars, and producing and sharing code and datasets. 
 
-6. **Be considerate** of the perceptions and needs of others.
+Note that all four areas are important. To varying degrees, we should all consider each a part of our job and dedicate time to each. Science (point 1) should take up the majority of our time, but the other activities listed above are work too. To give an often-undervalued example, work to improve the diversity, equity and inclusion of our campus and scientific field is considered work and is valued by this group.
 
-7. **Share data** as requested to others on the team (with understanding that data may be restricted to use in
-limited/specific ways).
+## Responsibilities of faculty members
+The responsibilities specific to faculty members in the group (e.g., DEES teaching faculty and LDEO research faculty) are wide ranging. Their primary responsibility is to be fully committed to the wellbeing and fulfillment of all members of the group. Others are as follows.
 
-8. **Share ideas and be inclusive towards writing papers** (be open to contributions on papers from others).
+**Direction and motivation**: Faculty members are responsible for ensuring the group's activities -- primarily, glaciological science, but also teaching, outreach etc. -- are completed according to standards set by LDEO and the science community. This involves providing guidance (see below), motivating/encouraging group members, providing overall direction for the group’s activities, producing ideas, and being generous with them.
 
-9. **Define authorship criteria/expectations.** For example, a person deserves co-authorship if they satisfy two
-of the following, and a person deserves first authorship if they contribute to all of the following (possibly
-with exception b) 
+**Mentoring**: A responsibility of faculty is to offer mentoring and guidance to all members of the group, where appropriate, whenever it is requested (and sometimes, but not always, when it is not requested). Guidance can include anything from discussing the overarching direction of a project, to helping to debug code. The detail of this guidance and its focus (e.g., overall strategy vs. the approach to specific aspects of a project) depends on (1) the project (e.g., is it something the mentor has worked on previously or is it something the mentee has developed from the start of the project?), and (2) the mentee’s career stage (first-year grad students can expect more detailed and regular input than a postdoc, for example). Faculty members are responsible for prompting mentees to gradually take more responsibility for leading their own projects, e.g., independently defining research questions, developing and implementing approaches to answering those questions, and strategizing publishing the results. 
 
-    a. conceiving an original research idea, conducting background research independently, and
-    developing the idea independently into a viable research plan (or viable paper outline),
+One way to think about this is that the overall arc of an early academic career from student onward involves progressively learning how to (1) answer science questions, (2) ask science questions, (3) ask tractable questions, and (4) ask and answer tractable and fundable questions. We are all at different stages along this track, but a role of senior members of the group is to help guide people along it.
 
-    b. conducting field work, initial data processing, doing image interpretation and GIS analysis,
-    analyzing samples and thin sections, etc.,
+Faculty members are also responsible for mentoring others with respect to all aspects of academia, not just guiding research, including in job applications, funding applications, paper writing, paper reviewing, conference and other presentations, authorship questions, etc. 
 
-    c. synthesizing data and interpreting results with significant initiative, creativity, and independence,
+**Providing feedback**: Many faculty activities (e.g., those immediately above) involve providing feedback to other group members. Faculty members will always try to supply this in a timely manner. For example, days rather than weeks for small pieces of work like abstracts, or for replying to requests over email or slack messages, and weeks rather than months for larger pieces of work like paper/proposal drafts. There will be times when this is not possible and faculty will always be open and realistic about timelines for feedback. They will also be understanding of other group members' work schedules, vacations and time pressures and will never expect very short-term turn-arounds on input from group members that would require an unreasonable commitment of out-of-office-hours effort.  
 
-    d. getting a manuscript/poster into final, publishable form (e.g., written, edited, made figures),
+**Defining group culture**: Through all interactions with the group, and activities like leading the preparation of this statement, faculty are responsible for defining and promoting a group culture that (i) reduces all negative impacts of inherent power structures , (ii) leads to respectful, thoughtful discourse - scientific and otherwise, (iii) reduces barriers to increasing diversity, inclusion and equity, (iv) ensures we are always open to all ideas whether or not they agree with our personal beliefs and/or science-orthodoxy, and (v) acting whenever necessary to ensure group values are upheld by all. 
 
-    e. contributing a key data set, with description of methods, and analysis of the significance of the
-    data.
+**Funding our research**: Faculty are the people most responsible for obtaining funding to fund the group’s activities (salaries, fieldwork, outreach activities, conferences, other travel, computing resources, etc.), and thereby helping to improve job/salary security. This is primarily achieved by regularly applying for funding from a range of sources. Faculty will engage other members in this process, including graduate students writing and editing proposals and post docs leading proposals. 
 
-10. **Follow ethical standards on scientific conduct,** such as, but not limited to, the guidelines set by NSF
-found at NSF’s guidance on Training in Responsible Conduct of Research, and those agreed in the UK
-under The Concordat to Support Research Integrity.
+Faculty are also often responsible for overseeing allocating funds to different activities. This is particularly important for salaries, as it includes life-impacting decisions about whether to employ new people or allocate salaries to current members. In this group, faculty will oversee/make these decisions in the most open way possible that respects people’s privacy. This includes being open with all potentially impacted parties about what funding is available now and in the future and being realistic about the likelihood of successfully securing a particular source of funds. This is important because, for example, knowing as early as possible that funding is unavailable or unlikely to be available significantly helps in career planning for those whose salaries are affected, increasing the likelihood that continuous desirable employment can be secured.  
 
-## Among specific field teams
+Senior group members will meet individually with those affected by funding decisions, in particular ARSs and post-docs, approximately every six months to discuss issues related to salary support and project timelines and expectations. Senior group members will work with each post-doc/ARS to develop a funding plan that extends a year beyond the end of their current appointment (e.g., if it is March and a post-doc is up for reappointment in September, the plan should extend to the end of the following August). This plan will consist of a list of secured and potential funds (typically depending on pending funding applications) with the likelihood of the potential funding being secured clearly articulated. The purpose of this is to give the information needed to make informed decisions about whether, when and where to make job and funding applications.
 
-1. Create an inclusive environment that is welcoming of all ethnicities, national origins, genders, sexuality,
-physical abilities, lifestyles, age groups, levels of education, etc., and be aware and sensitive of cultural
-expectations during field work, for example. Avoid alienation or exclusion.
+Beyond salaries faculty members will also endeavour to be fair in the allocation of other resources, e.g., computer resources and fieldwork opportunities. 
 
-    a. No harassment. Be mindful of jokes, comments, and other behavior that could be construed as
-    micro/macroaggressions. A recent study of researchers in the field highlighted positive and
-    negative examples of behavior during field work. Examples of sexual harassment from this paper
-    included but were not limited to: unwanted flirtation or verbal sexual advances, propositions,
-    and jokes about physical appearance or intelligence that were sexually motivated or gendered.
-    Examples of sexual assault include cases of unwanted physical contact, including physical
-    intimidation, forced kissing, pressing genitalia on the respondent's body, attempted rape, and
-    rape. See paper entitled Signaling Safety: Characterizing Fieldwork Experiences and Their
-    Implications for Career Trajectories.
+While generally we strive to allow close-to complete academic freedom, as this helps ensure that everyone gets to work on topics that excite them, there may be times when a project with specific deliverables does not permit complete freedom. It is the responsibility of project PIs (who are not always the senior members of the group) to be open about a project’s expectations in discussions that take place before any funding is allocated. 
 
-    b. No alienation: Be aware that the use of alcohol can alienate some population groups, including
-    women, people who culturally or medically don’t drink, or people from religious backgrounds.
-    Crude language and rowdiness, often associated with alcohol, can also isolate members of the
-    team. See paper entitled Signaling Safety: Characterizing Fieldwork Experiences and Their
-    Implications for Career Trajectories.
+**Other**: Responsibilities of faculty members that go beyond those directly related to the research group summarized above include, teaching, community outreach, administrative duties (committees, etc.), reviewing papers and proposals, editorial roles at journals, promoting the group’s science across LDEO campus, university and externally, independent research, and writing papers. 
 
-    c. Be willing to (respectfully) point out inappropriate behavior of others.
+## Responsibilities of other group members. 
+The responsibilities of other group members are generally more focussed than those of faculty members, and vary with career stage. But all members’ responsibilities include: 
 
-    d. Be mindful of pronouns to avoid mis-gendering or de-gendering anyone – if you’re unsure, ask!
+**Taking ownership of projects**: Each group member should be prepared to take ownership of their particular projects and, as the projects progress, aim to take an increasing leadership role in at least one of the projects they are involved in. For graduate students this will naturally be their thesis topics. This includes gradually increasing the extent that you lead the development of research questions and the approaches to answer them.  
 
-    e. Give support and encouragement, and leadership roles (with guidance), to students and
-    postdocs.
+**Seeking guidance**: Everyone should seek out guidance when they need it from faculty or others, be open about the limits of their understanding, and work collaboratively to move our activities forward. 
 
-2. Be aware of, and sensitive to, cultural expectations for field work. Be considerate of needs for personal
-space, sharing camp responsibilities equally, the need to discuss medical and bodily functions ahead of
-time, and more. Erin Pettit’s field team leadership document provides good examples.
+**Response to feedback**: Everyone should start with the assumption that feedback is given with the best of intentions, with the sole aim of moving our activities forward. In line with this, all suggestions for improvement should be taken seriously and addressed to the best of one’s ability - this applies to all interactions in academia, including the peer-review process. 
 
-3. Listen to input from all team members, even when you don’t agree. When challenging ideas, or
-behaviors, in whatever context, be constructive, non-personal and respectful.
+**Promoting group culture**: Just as the faculty members of the group are responsible for defining and promoting our desired culture outlined in this document, all other members are responsible for helping to promote this culture through their every-day interactions.
 
-4. Safety is our highest priority in the field. Respond to all team members’ concerns. Allow people to opt out
-of or to veto situations in which they feel unsafe – discuss risk assessments and risk mitigation activities
-ahead of time with the group. 
+**Taking responsibility for one’s own career progression**: In collaboration with their mentors, everyone should carefully monitor their career progression and development. This is open-ended and the details depend on your existing skills and experience, your chosen career path, your current career stage, and many other factors. One aspect of this is movement along the arc of an academic career described in the previous section, but many other aspects exist too. Overall however, everyone should aim to take responsibility for their own development and seek out development opportunities. For example, by engaging with the peer-review process whereby a grad student or postdoc co-review a paper with their mentor. Everyone should also seek opportunities to gain experience in writing applications for funding, whether this is leading a grant to a government agency (e.g., NASA, NSF) (probably more reasonable for post docs) or contributing text, and discussing the direction of such a grant led by someone else. 
 
-5. Consider how “field team culture” is important for helping those from under-represented groups feel
-included, which is described in the paper Tacit knowledge and girls’ notions about a field science
-community of practice.
+Additionally, those whose position at Lamont depends on available funding (post-docs and ARSs) will work with their mentors to develop funding plans as described in section 5. 
 
-6. Violations of these values and norms will be reported to NSF, NERC, and/or the appropriate institution.
-Possible actions may include immediate removal of the harasser from the field site or environment.
+**Time management**: Group members will work with their supervisors to develop realistic plans for completing projects (analysis, paper drafts, abstract submissions, drafts of presentations). Just as mentors are responsible for supplying feedback in a timely manner, everyone will endeavour to complete projects, or parts of projects, on a reasonable timescale, as discussed before the start of the project with mentors. 
 
-## Guiding notes on good practice when work is published in peer-reviewed journals
-It is good practice to carefully consider everyone who may be deserving of authorships when work is submitted for
-publication in peer-reviewed journals. It is not always easy to draw the line between individuals deserving
-authorship and those whose contribution is acknowledged at the end of the publication. It is good practice for PIs
-and senior staff to mentor graduate students and early career researchers in this matter.
 
-The following points provide guidance on good practice when publishing:
+## Vacation and working hours
+No strict expectations are imposed in terms of the details of anyone’s working week or the total duration of vacation time taken by members of the group.
 
-1. Openness is key. Before writing, group members should discuss how each paper is best produced. No one
-should write and submit papers without the knowledge of others who have made significant contributions
-to the collection of data, interpretations of those data, or model developments. This includes PIs. In this
-case, “group” refers to all researchers in each project, both in the UK and the US.
+The group operates broadly on a 9-5, Mon-Fri schedule. This is intended as a guideline for the total amount of time that people should approximately work per week, averaged over the long term, but it is highly flexible and most people will deviate from this considerably week-to-week and month-to-month. We will all remember this and not expect communication out of hours, but not take exception to receiving communication out of hours. 
 
-2. When a paper is written, everyone who made significant contributions to the collection of data or their
-analysis, or the development of models, should be offered co-authorship or acknowledgement (their
-choice). If co-authorship is agreed to, it should be at a stage that allows them to make a contribution to
-the writing of the manuscript.
+Similarly, everyone is encouraged to arrange and manage their own vacations, with little or no input from others. As long as your long-term aims (which have been established through discussion with others, e.g., your direct supervisor or mentor committee) are being fulfilled, there is no reason for others to track or dictate your vacation or day-to-day work schedule. This also applies to longer-term leave for family or health reasons that could be longer than a typical vacation, but these can be mentioned to mentors if it will affect project timelines, for planning purposes. 
 
-3. All authors should fulfill the requirements of authorship:
+The reasons for this policy are personal, pragmatic and strategic. First, one of the great things about science as a career is flexibility in working schedules, working styles, and vacations. No one wants these norms to be changed and this freedom eroded. Secondly, no one wants to spend time monitoring others’ vacations and work hours. Finally, everyone has different working styles and time away from work often promotes creativity and productivity. 
 
-    a. The Council of Science Editors (CSE): “Authors are individuals identified by the research group to
-    have made substantial contributions to the reported work and agree to be accountable for these
-    contributions. In addition to being accountable for the parts of the work he or she has done, an
-    author should be able to identify which of their coauthors are responsible for specific other parts
-    of the work. In addition, an author should have confidence in the integrity of the contributions of
-    their co-authors. All authors should review and approve the final manuscript.” [Committee of
-    Publication Ethics - COPE, Council, 2014].
+## Fieldwork expectations
+Many members of the group get the opportunity to conduct fieldwork if they want. It can be an amazing personal and professional experience. However, fieldwork can involve significant hazards and it is vital that we all stay safe and minimize risk of personal injury. Moreover, long working/travel hours, cramped living and sleeping conditions, remoteness, and small teams who rely on each other to stay safe, leads to an environment where bad behaviour has a much larger negative impact, power dynamics are exacerbated, and accountability for bad behaviour is reduced. For these reasons we try to strictly follow the guidelines laid out in Lamont code of conduct (Annex 1). For example, to the extent possible, PIs will ensure that there are at least three people on any field trip, including the PI; the PI will hold a pre-trip meeting so everyone is involved in discussing what training is needed to make you effective and comfortable and give each participant a roster with roles and responsibilities outlined for all individuals; and PIs should make every effort to inform group members in advance of any other expected strenuous physical activity.
 
-    b. The American Physical Society: “Authorship should be limited to those who have made a
-    significant contribution to the concept, design, execution or interpretation of the research study.
-    All those who have made significant contributions should be offered the opportunity to be listed
-    as authors. Other individuals who have contributed to the study should be acknowledged, but
-    not identified as authors.” [Committee of Publication Ethics - COPE, Council, 2014].
+We also follow a set of student fieldwork rights and a field trip-specific code-of-conduct, found here. Two key points are (1) no one should be compelled to take part in any activity that they do not want to take part in, and they do not need to divulge their reasons for feeling that way, and (2) all fieldwork will be planned to minimize risk to all reasonable extent by, where needed, teaming-up with qualified field safety experts and discussing any potential risks with the whole group at the planning stage. 
 
-4. Contributions by individuals who do not meet the authorship criteria should be acknowledged.
+Additionally, field participants will not be expected to supply their own equipment. All equipment required should be budgeted for and paid for by the project. 
 
-5. Authors and those whose contributions are acknowledged, and anyone who is cited for personal
-communications, should be consulted in advance of submission of a manuscript in order to avoid
-misunderstandings and potential authorship issues. If such issues arise, the PI should provide guidance in
-the decision making process, especially if the lead author is a graduate student or early career scientist.
+## Onboarding of new group members.
+To welcome new group members in their first week we will hold a round table meeting, where everyone will introduce themselves and their work. Also during their first week, we will arrange for new group members to meet with each other member (and others) for  30 minutes or so, one-on-one. 
 
-6. All authors have a responsibility to ensure that no one deserving of authorship have been omitted. This
-responsibility does not solely fall on the lead author, especially if the lead author is a graduate student or
-early career researcher.
+## Revolving conflict and raising concerns
+The first step in resolving any conflicts within the group, or ensuring our values are upheld is, of course, through peer-to-peer conflict resolution, i.e., talking openly about any concerns with the relevant people, in private if more appropriate. If this is not a good option, as far as possible, everyone is encouraged to speak to the senior group members (e.g., Jonny) about any concerns, whether about science or the culture of the group. Part of their job is to listen openly and work to provide as positive an environment as possible
 
-7. All authors take responsibility for the integrity of work presented in the paper. This is again very
-important when the lead author is a graduate student or early career scientist.
+Note that all faculty, officers of research, and students who are TAs, have mandatory reporting responsibilities under the university’s Title IX policies. If mandatory reporting or another reason prevents anyone from speaking to the senior members of the group, there are several places available at Lamont and Columbia where concerns can be raised. The following are listed in the Lamont code of conduct (link; Annex 2): 
+- Office of Equal Opportunity and Affirmative Action (EOAA): For complaints about
+any kind of discrimination, misconduct, and/or harassment in the workplace
+Visit: http://EOAA.Columbia.edu for more details
+- Gender Based Misconduct (GBM) Office: For gender-based misconduct involving
+students. Visit: http://studentconduct.columbia.edu/gbm.html for more details
+- Title IX Coordinator: To report any gender misconduct (assault, harassment,
+discrimination, etc.). Visit https://sexualrespect.columbia.edu/columbias-title-ix-
+coordinator for more details.
+- Columbia Compliance Hotline: To report any kind of unethical, illegal, or
+suspicious behavior, including harassment and discrimination. Reports can be made anonymously. Visit http://www.compliance.columbia.edu/hotline.html for more details.
+- Ombuds Office: For any workplace concerns or grievances. Note that the Ombuds Office has no authority to enforce any action. Visit: http://ombuds.columbia.edu/ for more details
 
-8. For more information, see Authorship and contributorship on the COPE website.
+More informal sources of support include:
+- Kaleigh Mathews (Director Academic Administration and Finance/Graduate Program Manager, DEES), most relevant to graduate students. 
+- Mackenzie Carr (Assistant Director for Diversity, Equity, Inclusion and Anti-Bias). 
+- Mediation resource: https://ombuds.columbia.edu/content/mediation
 
-## Guiding notes on good practice when work is promoted on social media
-While social media reflects the views and opinions of individuals, it important to make sure that the collective work
-by a group or a team is accurately portrayed. When posting views and opinions as a group, the following is
-considered to be good practice:
+For graduate students there is additional information available in the DEES PhD guide (link; section 12).
 
-1. Make sure all posts are accurate and justified. Cite sources by including URLs when referring to scientific
-work and separate facts from opinions. Embed graphics and information to support your post, if you can.
-Posts should generally have a clear purpose. If you are unsure, consult with a team member or the PI
-before making a post public.
 
-2. If teams use shared social media, it may be helpful to review or proofread posts before they are made
-public. The proofing need not necessarily be the responsibility of the PI, but simply another member of
-the group. Free software, e.g. Hootsuite, can be used to manage shared social media.
 
-3. All posts should reflect positively and constructively on the program.
+ 
 
-4. Posts should never be aggressive or harassing in tone, neither directly nor indirectly.
 
-5. Social media posting from a team or a group should ideally be balanced and reflect facts and figures
-arising from the work carried out with a specific purpose. Balanced posting may include a combination of
-the following:
 
-    a. science as the pursuit of knowledge
-
-    b. science as a facilitator of new discoveries
-
-    c. science as a career path
-
-    d. science as a way of experiencing unique environments on Earth
-
-    e. views and opinion supported by science, e.g. notes on climate change
-
-6. Social media postings by individuals may reflect personal views and opinions. Be considerate of the group
-as a whole when you post your personal view or opinion.
-
-7. It is important that all ITGC activities are presented in a way that acknowledges our commitment to
-safety. Images, that show, or appear to show, unsafe practices can, if posted, damage individual and
-institutional reputations, and encourage poor practice by others. Check images before you share them
-from a safety perspective. Make sure, for example, that individuals are dressed appropriately and are they
-using appropriate safety equipment. Additionally, consider posting photos of lab work and work
-happening not in the field. A great amount of Antarctic research is carried out in our labs and offices far
-from the ice. Posting images of research done while NOT in the field will give a more representative
-perspective of the breadth of Antarctic science.
-
-Note that ITGC is on social media. Please tag it on Twitter, follow it on Facebook, and use the hashtag:
-
-Twitter: @GlacierThwaites
-Facebook: https://www.facebook.com/thwaitesglaciercollaboration/
-Hashtag: #thwaitesglacier
