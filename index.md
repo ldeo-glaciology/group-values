@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Group values and code of conduct
 Jonny Kingslake, with input from Elizabeth Case, Ching-Yao Lai, Julian Spergel, Benjamin Keisling, Aaron Stubblefield. 
 
